@@ -1,0 +1,23 @@
+{
+  "name": "homemanage",
+  "version": "1.0.0",
+  "description": "\"#Demo\" \r \"# elect\" \r \"#seeing git changes\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raamram/elect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raamram/elect/issues"
+  },
+  "homepage": "https://github.com/Raamram/elect#readme",
+  "devDependencies": {
+    "electron": "^9.1.0"
+  }
+}
